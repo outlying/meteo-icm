@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='meteo-icm',
     version='0.0.1',
-    description='A simple description of your package',
+    description='An API client to access weather data on Polish Meteo ICM institute',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/outlying/meteo-icm',
